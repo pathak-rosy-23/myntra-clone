@@ -1,2 +1,2 @@
-# university-website-clone
+# myntra-clone
 my first repository 
